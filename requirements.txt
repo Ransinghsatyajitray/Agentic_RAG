@@ -1,0 +1,12 @@
+PyPDF2
+tqdm
+ipykernel
+qdrant-client
+duckduckgo_search
+requests
+Ipython
+langchain
+litellm
+python-dotenv
+qdrant-client
+chromadb
